@@ -1,6 +1,6 @@
 using NUnit.Framework;
 
-namespace TFL.ConsoleUI.Tests
+namespace Tests
 {
     public class Tests
     {
