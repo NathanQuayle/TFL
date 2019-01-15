@@ -1,6 +1,6 @@
 using NUnit.Framework;
 
-namespace Tests
+namespace TFLStatus.Interfaces.Tests
 {
     public class Tests
     {
