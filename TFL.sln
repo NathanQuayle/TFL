@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.271
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TFL.ConsoleUI", "TFL.Console\TFL.ConsoleUI.csproj", "{4AB56950-C6B7-41EA-AEFF-DD7FE08FB7E2}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TFL.ConsoleUI.Tests", "TFL.Console.Tests\TFL.ConsoleUI.Tests.csproj", "{35EE184C-6837-4BAB-8A90-94824F2FD2BD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4AB56950-C6B7-41EA-AEFF-DD7FE08FB7E2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4AB56950-C6B7-41EA-AEFF-DD7FE08FB7E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4AB56950-C6B7-41EA-AEFF-DD7FE08FB7E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4AB56950-C6B7-41EA-AEFF-DD7FE08FB7E2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{35EE184C-6837-4BAB-8A90-94824F2FD2BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35EE184C-6837-4BAB-8A90-94824F2FD2BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35EE184C-6837-4BAB-8A90-94824F2FD2BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35EE184C-6837-4BAB-8A90-94824F2FD2BD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {33C471DE-66DA-4BC0-94A1-DA74027F20F6}
+	EndGlobalSection
+EndGlobal
